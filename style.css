@@ -4,8 +4,7 @@
 }
 
 body {
-  background-color: #454545;
-  color: white;
+  background-color: #ddd;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -43,7 +42,7 @@ small {
 
 .btn {
   padding: 10px 30px;
-  background-color: #09df54;
+  background-color: #fdbb11;
   border: none;
   cursor: pointer;
 }
